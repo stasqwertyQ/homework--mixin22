@@ -1,0 +1,56 @@
+.img--A {
+    margin-top: -20px;
+}
+
+
+.heding--A {
+    margin-left: 370px;
+    width: 696px;
+    margin-top: -389px;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 2.64px;
+    text-transform: uppercase;
+} 
+
+
+
+.button-A {
+    margin-left: 600px;
+border: none;
+width: 216px;
+height: 50px;
+color: #FFF;
+background-color: #2196F3;
+border-radius: 11px;
+}
+
+
+.listing1--B {
+    margin-left: 115px;
+ margin-top: 90px;   
+}
+
+.listing2--B {
+    margin-top: -290px;
+    margin-left: 515px;
+}
+
+
+.img--box3 {
+    margin-left: 915px;
+    margin-top: -486px;
+}
+
+.heding--main {
+    margin-top: 300px;
+    margin-left: 500px;
+    color: #212121;
+    font-size: 36px;
+}
+
